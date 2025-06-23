@@ -2,7 +2,7 @@
 based on https://github.com/eremef/aur4_clock and https://www.hackster.io/mdraber/digital-clock-with-arduino-uno-rev4-wifi-s-rtc-an-led-matrix-484d2e
 
 My articles:
-= https://nicuflorica.blogspot.com/2025/06/ceas-rtc-cu-actualizare-ora-de-pe.html
+- https://nicuflorica.blogspot.com/2025/06/ceas-rtc-cu-actualizare-ora-de-pe.html
 - https://nicuflorica.blogspot.com/2025/06/ceas-rtc-cu-actualizare-ora-de-pe_23.html
 
 ![base](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6z4sRStR6kiwF2nXpbz4xOTNnee3XTV6YCjw09eu4dFpb0DJl_G8zhpCyph5C1sSIFY9zix8gePshM4I5e2q4dCwbdOAK2LQBTK2FQ1vlZ64c4kdLgh_IPmr9xLxP7mhOA_aqgM_b9_q12whc2r_kVS3k5yuujFOxbRcJIszUIgAny3wqxQGu11l1HR2/w164-h200/RTC_clock_NTPupdate_v2_0.png)
