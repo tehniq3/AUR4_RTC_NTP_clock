@@ -4,6 +4,8 @@ based on https://github.com/eremef/aur4_clock and https://www.hackster.io/mdrabe
 My articles:
 - https://nicuflorica.blogspot.com/2025/06/ceas-rtc-cu-actualizare-ora-de-pe.html
 - https://nicuflorica.blogspot.com/2025/06/ceas-rtc-cu-actualizare-ora-de-pe_23.html
+- https://www.hackster.io/user0035382/rtc-clock-with-ntp-updates-using-just-uno-r4-wifi-board-a5790a
+- https://www.hackster.io/user0035382/rtc-clock-with-ntp-updates-using-just-uno-r4-wifi-board-2-8d4163
 
 ![base](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP6z4sRStR6kiwF2nXpbz4xOTNnee3XTV6YCjw09eu4dFpb0DJl_G8zhpCyph5C1sSIFY9zix8gePshM4I5e2q4dCwbdOAK2LQBTK2FQ1vlZ64c4kdLgh_IPmr9xLxP7mhOA_aqgM_b9_q12whc2r_kVS3k5yuujFOxbRcJIszUIgAny3wqxQGu11l1HR2/w164-h200/RTC_clock_NTPupdate_v2_0.png)
 ![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-oWugJiKJKvq_cCJtUI2vU094ZQ6bbysnfjZkC4ZwwhDwi1f75uBv1JxZnOdsscPBmRN1yVPmnR3SmMoOCgGgEa7eMX0yEwNtT7RjFhos3cRUEtMA5Dyl88te1Y6qpP0BWeMghqwTF9W3f1y7rlh3DoWJGynFD26xCdwO0BH01rzxgt19xvaSotwLQ_rE/w150-h200/RTC_clock_NTPupdate_v2_6.jpeg)
